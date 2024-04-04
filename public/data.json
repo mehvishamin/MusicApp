@@ -1,0 +1,171 @@
+[
+    {
+      "id": 1,
+      "song": "Stairway to Heaven",
+      "artist": "Led Zeppelin",
+      "link":"/Music/StairwayToHeaven.mp3",
+      "bgColor": "black",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRorCq7eO3UWV-7aQ6yTezNRGBah7x8P8AHIbbOfAUqGg&s",
+       "favourite":true,
+       "rating":"3.5",
+       "duration":"08:02"
+    },
+    {
+      "id": 2,
+      "song": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "link": "/Music/BohemianRhapsody.mp3",
+      "bgColor": "#33ff57",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJTSIojMh54MOmQntGRYurQDdi-vg_hyJj_XBFQe8zjwy7FqzH2h6IZpbl08G0_6avu_8&usqp=CAU",
+      "favourite":false,
+      "rating":"3.3",
+      "duration":"05:59"
+    },
+    {
+      "id": 3,
+      "song": "Hotel California",
+      "artist": "Eagles",
+      "link": "/Music/HotelCalifornia.mp3",
+      "bgColor": "#5733ff",
+      "image":"https://i.discogs.com/2hLtMqrRLtI3hJ71X-DgLQO2MMujOhC38emuQcf3rAU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTE2/MjQtMTY1NjU0MzUy/Mi05MzM5LmpwZWc.jpeg",
+      "favourite":true,
+      "rating":"4",
+      "duration":"06:32"
+    },
+    {
+      "id": 4,
+      "song": "Imagine",
+      "artist": "John Lennon",
+      "link": "/Music/Imagine.mp3",
+      "bgColor": "#3357ff",
+      "image":"https://i.pinimg.com/originals/7f/6f/a4/7f6fa4f14176bbff741dd91ad0a1f2dc.jpg",
+      "favourite":false,
+       "rating":"4.3",
+       "duration":"03:40"
+    },
+    {
+      "id": 5,
+      "song": "Like a Rolling Stone",
+      "artist": "Bob Dylan",
+      "link": "/Music/RollingStone.mp3",
+      "bgColor": "#ff5733",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3hFapfrT3R7e0h6gRJoCB1xnOEABbVBn-RluBUQAvQw&s",
+      "favourite":true,
+       "rating":"4.4",
+       "duration":"03:24"
+    },
+    {
+      "id": 6,
+      "song": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "link": "/Music/TeenSpirit.mp3",
+      "bgColor": "#33ff57",
+      "image":"https://m.media-amazon.com/images/I/814PSxoLVgL._UF1000,1000_QL80_.jpg",
+      "favourite":false,
+       "rating":"3.5",
+       "duration":"05:31"
+    },
+    {
+      "id": 7,
+      "song": "Hey Jude",
+      "artist": "The Beatles",
+      "link": "/Music/HeyJude.mp3",
+      "bgColor": "#5733ff",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW8dshoLcXQIO7oR9Lw-ytrBKb60KbwOWj23ifPXwlQA&s",
+      "favourite":true,
+       "rating":"4.5",
+       "duration":"04:35"
+    },
+    {
+      "id": 8,
+      "song": "Sweet Child o' Mine",
+      "artist": "Guns N' Roses",
+      "link": "/Music/OMine.mp3",
+      "bgColor": "#3357ff",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8YV74VKD4yQLekeujf5K1355VD9teqaj4wkVxw1W5w&s",
+      "favourite":false,
+       "rating":"4.0",
+       "duration":"04:54"
+    },
+    {
+      "id": 9,
+      "song": "Purple Haze",
+      "artist": "Jimi Hendrix",
+      "link": "/Music/PurpleHaze.mp3",
+      "bgColor": "#ff5733",
+      "image":"https://upload.wikimedia.org/wikipedia/en/6/64/PurpleHaze-GermanSingle.jpg",
+      "favourite":true,
+       "rating":"4.2",
+       "duration":"02:52"
+    },
+    {
+      "id": 10,
+      "song": "Wish You Were Here",
+      "artist": "Pink Floyd",
+      "link": "/Music/Wish.mp3",
+      "bgColor": "#33ff57",
+      "image":"https://amateurphotographer.com/wp-content/uploads/sites/7/2021/10/002.jpg",
+      "favourite":false,
+       "rating":"3.3",
+       "duration":"04:53"
+    },
+    {
+      "id": 11,
+      "song": "Highway to Hell",
+      "artist": "AC/DC",
+      "link": "/Music/HighwayToHell.mp3",
+      "bgColor": "#5733ff",
+      "image":"https://i1.sndcdn.com/artworks-JTIeK6YkDIvmCcpE-C79eGg-t500x500.jpg",
+      "favourite":true,
+       "rating":"4.2",
+       "duration":"03:31"
+    },
+    {
+      "id": 12,
+      "song": "November Rain",
+      "artist": "Guns N' Roses",
+      "link": "/Music/NovemberRain.mp3",
+      "bgColor": "#3357ff",
+      "image":"https://i.pinimg.com/564x/fa/7a/e6/fa7ae674f5d36889f7689fc50e715f2e.jpg",
+      "favourite":false,
+       "rating":"4.5",
+       "duration":"06:39"
+    },
+    {
+      "id": 13,
+      "song": "Let It Be",
+      "artist": "The Beatles",
+      "link": "/Music/LetItBe.mp3",
+      "bgColor": "#ff5733",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxkNo69oWSqsdyJE52kja5slMFmnYvn4FW_l9Wpyicug&s",
+      "favourite":true,
+       "rating":"4.4",
+       "duration":"03:50"
+    },
+    {
+      "id": 14,
+      "song": "Comfortably Numb",
+      "artist": "Pink Floyd",
+      "link": "/Music/ComfortablyNumb.mp3",
+      "bgColor": "#33ff57",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQva4JB4Q-AbdKrg6AQfXBODPODCcRY4zEL32MY5R3-Sw&s",
+      "favourite":false,
+       "rating":"3.4",
+       "duration":"9:02"
+    },
+    {
+      "id": 15,
+      "song": "Time",
+      "artist": "Pink Floyd",
+      "link": "/Music/Time.mp3",
+      "bgColor": "#5733ff",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDg8wnJAPc9uWwEuW2b3XRnCgTuNV0Kg5tlufm-6DP9g&s",
+      "favourite":true,
+       "rating":"3.3",
+       "duration":"06:56"
+    }
+    
+  ]
+
+
+  

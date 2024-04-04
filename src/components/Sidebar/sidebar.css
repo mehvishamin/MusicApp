@@ -1,0 +1,110 @@
+@font-face {
+    font-family: 'BasierCircle';
+    src: url('../../assets/Fonts/Basier/BasierCircle-Regular.ttf') format('truetype'); /* adjust the font file path and format */
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  
+.sidebar-container{
+    height:100vh;
+    width:100%;
+    /* border:1px solid black; */
+    color:white;
+    
+    
+
+}
+.sidebar-container p{
+    color:white;
+    font-size: 25px;
+    font-family:"Basier Circle",sans-serif;
+    padding:35px 0;
+    
+}
+.sidebar-container input {
+    margin: 10px 0;
+    padding: 8px 16px;
+    background-color: rgba(255, 255, 255, 0.08);
+    color: white;
+    width: 97%;
+    height: 5%;
+    border-radius: 8px;
+    border: 0px;
+    
+}
+.sidebar-container input::placeholder {
+    color: white; /* Set placeholder text color to white */
+    /* You can adjust the opacity to your preference */
+}
+.music-container{
+    display:flex;
+    flex-direction: column;
+    height:75vh;
+    
+    overflow: auto;
+}
+.music-container::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for WebKit browsers */
+}
+.list-container{
+    height:88px;
+    width:93%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* border:1px solid white; */
+    align-items: center;
+    padding:10px ;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 3px;
+}
+.list-container:hover{
+    background:rgba(255, 255, 255, 0.08);
+    /* opacity: 10%; */
+}
+.avatar-container{
+    display:flex;
+    flex-direction: row;
+    
+}
+.name-container{
+    display:flex;
+    flex-direction: column;
+    z-index: 999;
+}
+.title-container{
+    font-family: 'BasierCircle';
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 2px;
+}
+.subtitle{
+    font-family: 'BasierCircle';
+    font-size: 14px;
+    line-height: 24px;
+     opacity:60%;
+}
+.duration-container{
+    font-family: 'BasierCircle';
+    font-size: 14px;
+    line-height: 24px;
+    opacity:60%;
+    
+
+}
+@media only screen and (max-width: 970px) {
+    .sidebar-container p{
+      display: none;
+    }  
+    .sidebar-mobile{
+        margin:20px 0 5px 10px;
+    }
+    }
+
+    @media only screen and (min-width: 970px) {
+        .sidebar-mobile{
+          display: none;
+        }  
+        }   

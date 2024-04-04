@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'BasierCircle';
+    src: url('../../assets/Fonts/Basier/BasierCircle-Regular.ttf') format('truetype'); /* adjust the font file path and format */
+    font-weight: normal;
+    font-style: normal;
+  }
+.navigation-container{
+    height:100vh;
+    /* width:15%; */
+    /* background-color: black; */
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    
+    
+}
+.logo{
+    cursor: pointer;
+}
+.menu-item{
+    
+    margin:10px 0;
+
+    height:25px;
+    width:100%;
+    display: flex;
+    text-align: center;
+    justify-content: flex-start;
+    align-items: center;
+    
+
+    
+}
+.menu-item p{
+    color:white;
+    /* opacity: 60%; */
+    font-family:"BasierCircle",sans-serif;
+    cursor: pointer;
+}
+.menu-item p:hover{
+ opacity: 100%;
+}
+
+@media only screen and (max-width: 970px) {
+    .navigation-container{
+      display: none;
+    }  
+    }

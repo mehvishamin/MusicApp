@@ -1,0 +1,46 @@
+.home-container{
+    margin:0;
+    padding:0;
+    display:flex;
+    flex-direction: row;
+    width:100vw;
+    
+}
+.navigation{
+    flex-grow: 1;
+}
+.sidebar{
+    flex-grow: 2;
+    
+}
+.players{
+    flex-grow: 7;
+}
+@media only screen and (max-width: 970px) {
+  .navigation{
+    display: none;
+
+  }  
+  .players{
+    flex-grow: 3;
+  }
+  .sidebar{
+    flex-grow: 1;
+    
+}
+  }
+
+
+  @media only screen and (max-width: 870px) {
+    .navigation{
+      display: none;
+  
+    }  
+    .players{
+      flex-grow: 1;
+    }
+    .sidebar{
+      display: none;
+      
+  }
+    }
